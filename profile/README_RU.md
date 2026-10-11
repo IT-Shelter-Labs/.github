@@ -1,41 +1,40 @@
-# IT Shelter
+<img src="https://raw.githubusercontent.com/IT-Shelter-Labs/.github/main/profile/assets/it-shelter-banner.jpg" width="100%" alt="IT Shelter — Code. Learn. Build. Фирменный маскот IT Shelter за ноутбуком.">
 
-**Open-source инструменты, практическое программирование и разработка с ИИ.**
+<p align="center">
+<a href="https://t.me/+ihTcvubt-_BhZTQ6"><img src="https://raw.githubusercontent.com/IT-Shelter-Labs/.github/main/profile/assets/telegram.svg" width="228" height="46" alt="Telegram-канал IT Shelter"></a>
+<a href="https://t.me/itshelter_bot?start=p_main-course__github"><img src="https://raw.githubusercontent.com/IT-Shelter-Labs/.github/main/profile/assets/course.svg" width="228" height="46" alt="Курс: Python от нуля до Telegram-бота"></a>
+<a href="https://t.me/itshelter_bot?start=p_free-material__ytb"><img src="https://raw.githubusercontent.com/IT-Shelter-Labs/.github/main/profile/assets/roadmap.svg" width="228" height="46" alt="Забрать бесплатный Roadmap Python Backend"></a>
+</p>
 
-[English](https://github.com/IT-Shelter-Labs/.github/blob/main/profile/README.md) · [Telegram](https://t.me/+ihTcvubt-_BhZTQ6)
+# Программирование, ИИ и полезные инструменты
 
-IT Shelter — русскоязычный медиа- и образовательный проект о программировании и технологиях.
-Здесь мы создаём открытые инструменты, которые помогают изучать программные проекты,
-принимать обоснованные решения и превращать идеи в работающий код.
+**IT_SHELTER** — медиа и образовательный проект о технологиях. Здесь мы создаём
+открытые инструменты и учимся превращать идеи в работающий код.
 
-## Наш первый проект
+[English](https://github.com/IT-Shelter-Labs/.github/blob/main/profile/README_EN.md)
 
-### [Research First Builder](https://github.com/IT-Shelter-Labs/research-first-builder)
+## Наши проекты
 
-Скилл, который помогает ИИ-агенту обосновать архитектуру реальными источниками перед разработкой.
+| Проект | Для чего |
+| :--- | :--- |
+| **[Research First Builder](https://github.com/IT-Shelter-Labs/research-first-builder)** · Agent Skill · Preview | Помогает ИИ-агенту изучить реальные аналоги и обосновать архитектуру источниками перед разработкой. |
+| **[Shelter Humanizer](https://github.com/IT-Shelter-Labs/Shelter-Humanizer)** · Windows | Редактирует текст с помощью ИИ и очищает скрытые символы. Локальные модели или API, простой интерфейс. |
+| **[Claude Mods](https://github.com/IT-Shelter-Labs/Claude-Mods)** · Claude Code | Моды для контроля контекста и лимитов, переноса задач и работы с несколькими сессиями. |
 
-Агент проходит путь от исследования аналогов и выбора подходящих идей до плана, реализации и проверки.
-Вместе с кодом остаются ссылки на источники и понятные отчёты о принятых решениях.
+## Учиться и пробовать
 
-**Don't build from vibes. Build from evidence.**
+**[Python от нуля до Telegram-бота →](https://t.me/itshelter_bot?start=p_main-course__github)**<br>
+Практический курс: основы Python, aiogram, работа с данными, API и сборка своего бота.
 
-[Начать](https://github.com/IT-Shelter-Labs/research-first-builder/blob/main/README_RU.md) ·
-[Предварительный релиз](https://github.com/IT-Shelter-Labs/research-first-builder/releases/tag/v0.1.0-rc1) ·
-[Примеры](https://github.com/IT-Shelter-Labs/research-first-builder/tree/main/examples) ·
-[Фактическая совместимость](https://github.com/IT-Shelter-Labs/research-first-builder/blob/main/docs/COMPATIBILITY.md)
+**[Бесплатный Roadmap Python Backend →](https://t.me/itshelter_bot?start=p_free-material__ytb)**<br>
+План изучения Python Backend. Материал выдаётся в Telegram-боте.
 
-Это ранняя версия. Документация отдельно описывает проверенное поведение, совместимость установки
-и проверки, которые ещё предстоит выполнить.
+**[Telegram IT Shelter →](https://t.me/+ihTcvubt-_BhZTQ6)**<br>
+Полезные репозитории, инструменты, разборы и материалы о программировании и ИИ.
 
-## Как мы работаем
+---
 
-- Изучаем проверяемые источники и объясняем неопределённость.
-- Выбираем сложность, которая соответствует конкретной задаче.
-- Добавляем полезные примеры, простую установку и реальные проверки.
-
-## Присоединиться
-
-Попробуй проект, сообщи о воспроизводимой ошибке или предложи небольшое улучшение.
-Начни с README и инструкции для участников; ошибки отправляй в Issues соответствующего репозитория.
-
-Материалы о программировании, полезные инструменты и анонсы проектов — в [Telegram-канале IT Shelter](https://t.me/+ihTcvubt-_BhZTQ6).
+Нашли ошибку или хотите помочь? Откройте Issues в нужном проекте:
+[Research First Builder](https://github.com/IT-Shelter-Labs/research-first-builder/issues) ·
+[Shelter Humanizer](https://github.com/IT-Shelter-Labs/Shelter-Humanizer/issues) ·
+[Claude Mods](https://github.com/IT-Shelter-Labs/Claude-Mods/issues).
